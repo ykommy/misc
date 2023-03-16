@@ -9,7 +9,7 @@
       "url": "http://httpbin.org/legacy"
     },
     "paths": {
-      "/get": {
+      "/gett": {
         "get": {
           "tags": [
             "HTTP methods"
